@@ -12,3 +12,4 @@ Devops
 Kubernetes
 Docker
 
+i am learning and practicing devops
